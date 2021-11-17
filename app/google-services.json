@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815561572861",
+    "project_id": "pratik-s-whatsapp",
+    "storage_bucket": "pratik-s-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815561572861:android:8fc321f7b1ebc3d5d19994",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815561572861-07151ddh1n4jmftehalk6umr78r5l2c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHcQs6nnbXR7Sr5lEtw_fHMxdEFFTNsSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815561572861-07151ddh1n4jmftehalk6umr78r5l2c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
